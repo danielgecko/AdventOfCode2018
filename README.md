@@ -1,1 +1,1 @@
-AdventOfCode2018
+Advent2018
