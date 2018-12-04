@@ -7,7 +7,9 @@
     "Day1P1": "node Day1/Part1/index.js",
     "Day1P2": "node Day1/Part2/index.js",
     "Day2P1": "node Day2/Part1/index.js",
-    "Day2P2": "node Day2/Part2/index.js"
+    "Day2P2": "node Day2/Part2/index.js",
+    "Day3P1": "node Day3/Part1/index.js",
+    "Day3P2": "node Day3/Part2/index.js"
   },
   "author": "",
   "license": "ISC",
